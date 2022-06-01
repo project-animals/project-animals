@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "top": "block/dark_oak_log_top",
+    "front": "project_animals:block/dark_oak_cavity",
+    "side": "block/dark_oak_log",
+    "bottom": "block/dark_oak_log_top"
+  }
+}

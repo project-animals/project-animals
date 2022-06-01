@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "project_animals:block/oak_cavity",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "project_animals:block/oak_cavity"
+    },
+    "facing=south": {
+      "model": "project_animals:block/oak_cavity",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "project_animals:block/oak_cavity",
+      "y": 270
+    }
+  }
+}

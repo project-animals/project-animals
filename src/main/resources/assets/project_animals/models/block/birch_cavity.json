@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "top": "block/birch_log_top",
+    "front": "project_animals:block/birch_cavity",
+    "side": "block/birch_log",
+    "bottom": "block/birch_log_top"
+  }
+}

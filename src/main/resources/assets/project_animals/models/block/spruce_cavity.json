@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "top": "block/spruce_log_top",
+    "front": "project_animals:block/spruce_cavity",
+    "side": "block/spruce_log",
+    "bottom": "block/spruce_log_top"
+  }
+}
