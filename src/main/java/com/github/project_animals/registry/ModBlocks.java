@@ -3,8 +3,6 @@ package com.github.project_animals.registry;
 import com.github.project_animals.ProjectAnimals;
 import com.github.project_animals.block.CavityBlock;
 import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
-import net.fabricmc.fabric.mixin.object.builder.AbstractBlockAccessor;
-import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraft.block.MapColor;
